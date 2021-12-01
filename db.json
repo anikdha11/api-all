@@ -1,0 +1,34 @@
+{
+"projects":[
+    {
+        "id": "1",
+        "name": "Watches Store",
+        "description": " This is full stack projects with mongodb database.... ",
+        "img":"https://i.ibb.co/xfMcbYm/Watches-Store.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Online HealthCare",
+        "description": " This is full stack projects with mongodb database.... ",
+        "img":"https://i.ibb.co/6Wv4gSj/Healthcare.jpg"
+    },
+     {
+        "id": "3",
+        "name": "Tour Travels",
+        "description": " This is full stack projects with mongodb database.... ",
+        "img":"https://i.ibb.co/FqP0CZx/tour-travles.jpg"
+    }, 
+    {
+        "id": "4",
+        "name": "Online Teaching Home",
+        "description": " This is landing page with react router dom.... ",
+        "img":"https://i.ibb.co/w7m88j1/teachinghome.jpg"
+    }, 
+    {
+        "id": "5",
+        "name": "Developer Committee",
+        "description": " This is Javascript projects with own API.... ",
+        "img":"https://i.ibb.co/BfCKFdM/Developercommittee.jpg"
+    }
+]
+}
