@@ -33,7 +33,7 @@
         "name": "Online Teaching Home",
         "description": " This is landing page with react router dom.... ",
         "img":"https://i.ibb.co/w7m88j1/teachinghome.jpg",
-        "live":"https://online-teach-ak.netlify.app/"
+        "live":"https://online-teach-ak.netlify.app/",
         "client":"https://github.com/anikdha11/online-teaching",
         "technologies":"React js, React router dom, React Bootstrap."
        
@@ -43,7 +43,7 @@
         "name": "Developer Committee",
         "description": " This is Javascript projects with own API.... ",
         "img":"https://i.ibb.co/BfCKFdM/Developercommittee.jpg",
-        "live":"https://webdeveloper-committee-ak.netlify.app/"
+        "live":"https://webdeveloper-committee-ak.netlify.app/",
         "client":"https://github.com/anikdha11/developer-commitee",
         "technologies":"Javascript,Rest Api,Css,Html5"
     }
