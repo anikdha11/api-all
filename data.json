@@ -8,7 +8,7 @@
         "live-link":"https://watches-store-6db58.web.app/",
         "client-code":"https://github.com/anikdha11/watch-store",
         "server-code":"https://github.com/anikdha11/watche-store-server",
-        "technologies":"React js, React router dom, Node js , javascript,Mongodb, Express js, Material ui.",
+        "technologies":"React js, React router dom, Node js , javascript,Mongodb, Express js, Material ui."
     },
     {
         "id": "2",
@@ -33,7 +33,7 @@
         "name": "Online Teaching Home",
         "description": " This is landing page with react router dom.... ",
         "img":"https://i.ibb.co/w7m88j1/teachinghome.jpg",
-        "live-link":"https://online-teach-ak.netlify.app/"
+        "live-link":"https://online-teach-ak.netlify.app/",
         "client-code":"https://github.com/anikdha11/online-teaching",
         "technologies":"React js, React router dom, React Bootstrap."
        
@@ -43,9 +43,18 @@
         "name": "Developer Committee",
         "description": " This is Javascript projects with own API.... ",
         "img":"https://i.ibb.co/BfCKFdM/Developercommittee.jpg",
-        "live-link":"https://webdeveloper-committee-ak.netlify.app/"
+        "live-link":"https://webdeveloper-committee-ak.netlify.app/",
         "client-code":"https://github.com/anikdha11/developer-commitee",
         "technologies":"Javascript,Rest Api,Css,Html5"
+    },
+    {
+        "id": "6",
+        "name": "Lady Ecommerce",
+        "description": " This is full stack projects with mongodb database. This is team projects with payment system ",
+        "img":"https://i.ibb.co/6Jb1tbG/lady-ecommerce.png",
+        "live-link":"https://ladyecommerce-d15fd.web.app/",
+        "client-code":"https://github.com/anikdha11/Team-project",
+        "technologies":"React Js, Tailwind Css, Firebase Authentication system, Javascript, Rest Api,Css,Html5"
     }
 ]
 }
