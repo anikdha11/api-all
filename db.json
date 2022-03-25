@@ -51,7 +51,7 @@
         "id": "6",
         "name": "Lady Ecommerce",
         "description": " This is full stack projects with mongodb database. This is team projects with payment system ",
-        "img":"https://i.ibb.co/6Jb1tbG/lady-ecommerce.png",
+        "img":"https://ladyecommerce-d15fd.web.app/",
         "live":"https://ladyecommerce-d15fd.web.app/",
         "client":"https://github.com/anikdha11/Team-project",
         "technologies":"React Js, Tailwind Css, Firebase Authentication system, Javascript, Rest Api,Css,Html5"
